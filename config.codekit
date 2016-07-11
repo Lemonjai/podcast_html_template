@@ -22,6 +22,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/podcast10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14902,
+		"inputAbbreviatedPath": "\/images\/podcast10.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6227,
+		"inputAbbreviatedPath": "\/images\/podcast11.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14776,
+		"inputAbbreviatedPath": "\/images\/podcast12.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24129,
+		"inputAbbreviatedPath": "\/images\/podcast13.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast14.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6524,
+		"inputAbbreviatedPath": "\/images\/podcast14.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast14.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast15.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18837,
+		"inputAbbreviatedPath": "\/images\/podcast15.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast15.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28784,
+		"inputAbbreviatedPath": "\/images\/podcast16.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/podcast2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44,6 +121,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/podcast4.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15052,
+		"inputAbbreviatedPath": "\/images\/podcast4.jpeg",
+		"outputAbbreviatedPath": "\/images\/podcast4.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/podcast4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51,6 +139,61 @@
 		"initialSize": 15123,
 		"inputAbbreviatedPath": "\/images\/podcast4.jpg",
 		"outputAbbreviatedPath": "\/images\/podcast4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11117,
+		"inputAbbreviatedPath": "\/images\/podcast5.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18993,
+		"inputAbbreviatedPath": "\/images\/podcast6.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10948,
+		"inputAbbreviatedPath": "\/images\/podcast7.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14747,
+		"inputAbbreviatedPath": "\/images\/podcast8.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/podcast9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13798,
+		"inputAbbreviatedPath": "\/images\/podcast9.jpg",
+		"outputAbbreviatedPath": "\/images\/podcast9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
