@@ -130,6 +130,15 @@
           .description{
             color: lighten($dark, 25%);
           }
+
+          .authorized_links{
+            font-weight: 700;
+            font-size: .8rem;
+            a{
+              color: $highlight;
+              margin-right: 1rem;
+            }
+          }
         }
       }
     }
@@ -155,6 +164,32 @@
       font-size: .9rem;
       line-height: 1.7;
       color: lighten($dark, 25%);
+    }
+  }
+
+  #links{
+    padding: 2rem 0;
+    ul{
+      list-style: none;
+      padding-left: 0;
+      padding: 1rem 0;
+      margin-bottom: 1rem;
+      border-bottom: 1px solid lighten($dark, 75%);
+      li{
+        display: inline;
+        margin-right: 1rem;
+        font-weight: 700;
+        a{
+          color: $dark;
+          text-decoration: none;
+          &:hover{
+            color: $highlight;
+          }
+        }
+      }
+      .current{
+        color: $highlight;
+      } 
     }
   }
 }
