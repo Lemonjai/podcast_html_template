@@ -547,3 +547,71 @@ textarea {
         opacity: .8; }
       #podcasts ul li:hover .podcast_overview h2 {
         color: #d2674e; }
+
+#podcast_show #show_banner {
+  background: #22292e;
+  text-align: center;
+  padding: 5rem 0; }
+  #podcast_show #show_banner h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: #FFFFFF;
+    margin: 0 0 .5rem 0; }
+  #podcast_show #show_banner .description {
+    width: 75%;
+    line-height: 1.75;
+    margin: 0 auto 2rem auto;
+    color: #4d5d69; }
+  #podcast_show #show_banner .subscribe_link {
+    font-size: .6rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+    display: inline;
+    background: #d2674e;
+    border-radius: 2rem;
+    padding: .5rem 1rem;
+    margin: 0 .5rem;
+    text-decoration: none; }
+    #podcast_show #show_banner .subscribe_link:hover {
+      background: #bd4b30; }
+#podcast_show #breadcrumb {
+  padding: 1rem 0;
+  text-align: center;
+  border-bottom: 1px solid #e4e8eb;
+  font-weight: 700;
+  font-size: .7rem;
+  text-decoration: none; }
+  #podcast_show #breadcrumb a {
+    color: #8c9daa;
+    text-decoration: none; }
+  #podcast_show #breadcrumb span {
+    margin: 0 .5rem; }
+#podcast_show #episodes {
+  padding: 3rem 0; }
+  #podcast_show #episodes ul {
+    list-style: none;
+    padding-left: 0; }
+    #podcast_show #episodes ul li {
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #e4e8eb;
+      margin-bottom: 2rem; }
+      #podcast_show #episodes ul li:last-child {
+        border-bottom: none; }
+      #podcast_show #episodes ul li .episode_thumbnail {
+        width: 25%;
+        float: left; }
+        #podcast_show #episodes ul li .episode_thumbnail img {
+          width: 15rem;
+          max-width: 100%;
+          border-radius: .35rem; }
+      #podcast_show #episodes ul li .episode_overview {
+        width: 73.5%;
+        float: left;
+        margin-left: 1.5%; }
+        #podcast_show #episodes ul li .episode_overview h2 a {
+          color: #22292e;
+          text-decoration: none; }
+        #podcast_show #episodes ul li .episode_overview .description {
+          color: #586a77; }
